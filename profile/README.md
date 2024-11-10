@@ -1,6 +1,3 @@
-# Hi there 👋
-Code First Girls: CFGdegree Data Science — group 6
-
 ## The group
 - [@pxlwy](https://github.com/pxlwy)
 - [@Sabah-bot](https://github.com/Sabah-bot)
